@@ -1,3 +1,5 @@
+#coding:utf-8
+
 class TheThing(object):
 	def __init__(self):
 		self.number = 0
